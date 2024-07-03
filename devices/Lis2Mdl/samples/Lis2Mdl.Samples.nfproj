@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="Current" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup Label="Globals">
     <NanoFrameworkProjectSystemPath>$(MSBuildExtensionsPath)\nanoFramework\v1.0\</NanoFrameworkProjectSystemPath>
@@ -35,13 +35,11 @@
     <Reference Include="System.Numerics">
       <HintPath>..\packages\nanoFramework.System.Numerics.1.2.423\lib\System.Numerics.dll</HintPath>
     </Reference>
-    <Reference Include="UnitsNet.MagneticField, Version=5.50.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\packages\UnitsNet.nanoFramework.MagneticField.5.50.0\lib\UnitsNet.MagneticField.dll</HintPath>
-      <Private>True</Private>
+    <Reference Include="UnitsNet.MagneticField, Version=5.52.0.0, Culture=neutral, PublicKeyToken=null">
+      <HintPath>..\packages\UnitsNet.nanoFramework.MagneticField.5.52.0\lib\UnitsNet.MagneticField.dll</HintPath>
     </Reference>
-    <Reference Include="UnitsNet.Temperature, Version=5.50.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\packages\UnitsNet.nanoFramework.Temperature.5.50.0\lib\UnitsNet.Temperature.dll</HintPath>
-      <Private>True</Private>
+    <Reference Include="UnitsNet.Temperature, Version=5.52.0.0, Culture=neutral, PublicKeyToken=null">
+      <HintPath>..\packages\UnitsNet.nanoFramework.Temperature.5.52.0\lib\UnitsNet.Temperature.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>

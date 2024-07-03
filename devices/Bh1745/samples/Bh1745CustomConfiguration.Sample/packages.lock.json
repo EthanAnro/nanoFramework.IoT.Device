@@ -10,9 +10,9 @@
       },
       "nanoFramework.Graphics.Core": {
         "type": "Direct",
-        "requested": "[1.2.10, 1.2.10]",
-        "resolved": "1.2.10",
-        "contentHash": "2eaJQauTEGdBDw6HfSeFT/82lAmD1qC9Ch5XZmouQHrBRIRa02I/U8dTA/k6Z1NhouNcyYK35BD++4uDodcq0w=="
+        "requested": "[1.2.15, 1.2.15]",
+        "resolved": "1.2.15",
+        "contentHash": "JOZ5KYBg0CE+u07vNyTar6MokA1hPZaHzRsDfB9ao8xkzHewxvNtxQ9YGRa9bM7TyD7Z2OYJ0PRColrtkUsLQg=="
       },
       "nanoFramework.Runtime.Events": {
         "type": "Direct",
@@ -28,9 +28,9 @@
       },
       "nanoFramework.System.Device.Gpio": {
         "type": "Direct",
-        "requested": "[1.1.38, 1.1.38]",
-        "resolved": "1.1.38",
-        "contentHash": "t2em7yn9sZpWWj52Xh4f4JjzUQX8/UB7C+XMnMiSGileGhRg86IwszA5/0bGUgc/dKC/AYRSqraPiEB0Q6jhBA=="
+        "requested": "[1.1.41, 1.1.41]",
+        "resolved": "1.1.41",
+        "contentHash": "5QnpdfvjxOvka2S5IHSdKudWmkH+CDQ3TFFuXOGuNlgZJFsAx0/k5zuwgJYkxIyGbL8kdcjBWLyDNdihjA1pUg=="
       },
       "nanoFramework.System.Device.I2c": {
         "type": "Direct",
