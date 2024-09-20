@@ -37,20 +37,20 @@
     <Reference Include="nanoFramework.System.Collections">
       <HintPath>..\..\packages\nanoFramework.System.Collections.1.5.31\lib\nanoFramework.System.Collections.dll</HintPath>
     </Reference>
-    <Reference Include="nanoFramework.TestFramework">
-      <HintPath>..\..\packages\nanoFramework.TestFramework.2.1.107\lib\nanoFramework.TestFramework.dll</HintPath>
+    <Reference Include="nanoFramework.TestFramework, Version=2.1.111.0, Culture=neutral, PublicKeyToken=c07d481e9758c731">
+      <HintPath>..\..\packages\nanoFramework.TestFramework.2.1.111\lib\nanoFramework.TestFramework.dll</HintPath>
     </Reference>
-    <Reference Include="nanoFramework.UnitTestLauncher">
-      <HintPath>..\..\packages\nanoFramework.TestFramework.2.1.107\lib\nanoFramework.UnitTestLauncher.exe</HintPath>
+    <Reference Include="nanoFramework.UnitTestLauncher, Version=0.0.0.0, Culture=neutral, PublicKeyToken=c07d481e9758c731">
+      <HintPath>..\..\packages\nanoFramework.TestFramework.2.1.111\lib\nanoFramework.UnitTestLauncher.exe</HintPath>
     </Reference>
     <Reference Include="System.Math">
       <HintPath>..\..\packages\nanoFramework.System.Math.1.5.43\lib\System.Math.dll</HintPath>
     </Reference>
-    <Reference Include="UnitsNet.Speed">
-      <HintPath>..\..\packages\UnitsNet.nanoFramework.Speed.5.56.0\lib\UnitsNet.Speed.dll</HintPath>
+    <Reference Include="UnitsNet.Angle, Version=5.58.0.0, Culture=neutral, PublicKeyToken=null">
+      <HintPath>..\..\packages\UnitsNet.nanoFramework.Angle.5.58.0\lib\UnitsNet.Angle.dll</HintPath>
     </Reference>
-    <Reference Include="UnitsNet.Angle, Version=5.56.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\packages\UnitsNet.nanoFramework.Angle.5.56.0\lib\UnitsNet.Angle.dll</HintPath>
+    <Reference Include="UnitsNet.Speed, Version=5.58.0.0, Culture=neutral, PublicKeyToken=null">
+      <HintPath>..\..\packages\UnitsNet.nanoFramework.Speed.5.58.0\lib\UnitsNet.Speed.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
