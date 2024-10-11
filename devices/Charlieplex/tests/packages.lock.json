@@ -10,9 +10,9 @@
       },
       "nanoFramework.Iot.Device.Multiplexing": {
         "type": "Direct",
-        "requested": "[1.2.586, 1.2.586]",
-        "resolved": "1.2.586",
-        "contentHash": "5vvEvEmB0AEIVFKV3ToUUWxm003W8oWxPtjR+0koheMpunCvanUnGCpz1Zv+RCZqi8NVQbenpMmIwBrCNtmpvg=="
+        "requested": "[1.2.628, 1.2.628]",
+        "resolved": "1.2.628",
+        "contentHash": "tFTHtMJ+vULZTsY4r/2n8/4WUSJT2Kn0sL7Bl8Q0fa9nkXxLTM4bvmpW5nrAH+8Bf0fxMDe/IX6KTNyMXkYblg=="
       },
       "nanoFramework.Runtime.Events": {
         "type": "Direct",
@@ -22,9 +22,9 @@
       },
       "nanoFramework.Runtime.Native": {
         "type": "Direct",
-        "requested": "[1.6.12, 1.6.12]",
-        "resolved": "1.6.12",
-        "contentHash": "RlJ882CK7D2HkkGHDw1a2xgiEM+1+Nd6iTA+OmzF5QIxbv0SX9qBesueIWsc6RsiQGqBEeBXh4zZ2+TBGL62VQ=="
+        "requested": "[1.7.1, 1.7.1]",
+        "resolved": "1.7.1",
+        "contentHash": "RCiG3D+SxG4wVSBXuXP0y8EZWBd65bfJ9AJj0USNnfL65Aa+nUXmXa6QIxkeolSjDH4jLgKjlIuTXOA7t+AQGQ=="
       },
       "nanoFramework.System.Device.Gpio": {
         "type": "Direct",
@@ -34,9 +34,9 @@
       },
       "nanoFramework.System.Diagnostics.Stopwatch": {
         "type": "Direct",
-        "requested": "[1.2.586, 1.2.586]",
-        "resolved": "1.2.586",
-        "contentHash": "Maan65aZyGWlLkpyR/h8uikFmbM01oitUy2abcj+UmywthkiicPbYQ3rRMYGaKcm0SecbMU1V9SiNhEKxvPbIQ=="
+        "requested": "[1.2.660, 1.2.660]",
+        "resolved": "1.2.660",
+        "contentHash": "ScGIMJcQ7E8+xhuR0Svt6+k2mjb7+WyDBXR8DmmRwSF0w1ugK6IPqlbxfvDzOklZtxqexdugp/mrC1sZ6UNRzA=="
       },
       "nanoFramework.System.Threading": {
         "type": "Direct",
@@ -46,9 +46,9 @@
       },
       "nanoFramework.TestFramework": {
         "type": "Direct",
-        "requested": "[2.1.107, 2.1.107]",
-        "resolved": "2.1.107",
-        "contentHash": "6pLzZwKdAsFoLaeP9iRivJaCs8AbaoX8wvB4oLH0+CBBQK209mfnkqqUzsL9sGwJIM9/bKoq6AMGmMZzI4iXww=="
+        "requested": "[2.1.112, 2.1.112]",
+        "resolved": "2.1.112",
+        "contentHash": "aiPyyGb7+yv96IQAxVGnXaQj8tTYf9Zj4zb6YM4kGJl+GptWlXqx8rS7lstWHYqM1UVyPEl1yT69uI6Go110qQ=="
       }
     }
   }
