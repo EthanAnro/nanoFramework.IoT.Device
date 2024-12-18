@@ -16,9 +16,9 @@
       },
       "nanoFramework.System.Device.Model": {
         "type": "Direct",
-        "requested": "[1.2.586, 1.2.586]",
-        "resolved": "1.2.586",
-        "contentHash": "lj4INIXKDe9UVgiyITVdBlZEiuuIRpKVlTKLQaJVbjWElXW7SiXLfDhRoytaXl5Hs7LoSVjrmhODoTVLbsAemw=="
+        "requested": "[1.2.693, 1.2.693]",
+        "resolved": "1.2.693",
+        "contentHash": "qqtaeVyJar8vCSV9NdOluPs9DbcCM/j2xH8PDbzbOQXnKJ25+2s2hr48OHvmf1m+FUnXYXRHupf5qhWiB4mSUw=="
       },
       "nanoFramework.System.IO.Ports": {
         "type": "Direct",
@@ -40,15 +40,15 @@
       },
       "Nerdbank.GitVersioning": {
         "type": "Direct",
-        "requested": "[3.6.141, 3.6.141]",
-        "resolved": "3.6.141",
-        "contentHash": "A2+obbz6Xl6nHdDDMiqHCrn6Lktrs/pLq4BIQXDUD2O2gd5fz2WobQyX30Kp0mPPXjEOgBA1r5s6iYVurTkUig=="
+        "requested": "[3.7.112, 3.7.112]",
+        "resolved": "3.7.112",
+        "contentHash": "j0jcfnTjvhytRanVR34Gaj6RFKk8EDmVhRW7929nWjCo8tzBxsa3XmFmbSGDA6nWXGhfehTixWhPgGWAbz+NQA=="
       },
       "UnitsNet.nanoFramework.VolumeConcentration": {
         "type": "Direct",
-        "requested": "[5.56.0, 5.56.0]",
-        "resolved": "5.56.0",
-        "contentHash": "K/iLFsJmB64PWgarsM1D9h7cIgoHg1iD9CAHdiB8osc0lTTYJw7e8I27BLsPJXKSSjqvacpZKlPTuvLcl1YnVw=="
+        "requested": "[5.61.0, 5.61.0]",
+        "resolved": "5.61.0",
+        "contentHash": "3p1WL4/K92AdrUrC/gwMfl33GLcoOPoc5jBI2Xo1shidfcBj5FgB9CDqsJaz6N4nRrGjHyyteKUo8iBVKAUNyg=="
       }
     }
   }
