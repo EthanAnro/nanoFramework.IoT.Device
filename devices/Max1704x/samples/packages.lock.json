@@ -16,15 +16,15 @@
       },
       "UnitsNet.nanoFramework.ElectricPotential": {
         "type": "Direct",
-        "requested": "[5.56.0, 5.56.0]",
-        "resolved": "5.56.0",
-        "contentHash": "lkfAexP8ruw2IJpLh60qlg8nVMvwkFd2uePebYBjYpmd8vWbEUuHFcbzImMBTNh7MkrkZ13mAb68KsHbELaYZg=="
+        "requested": "[5.64.0, 5.64.0]",
+        "resolved": "5.64.0",
+        "contentHash": "iDzprm0SvtsiSPQb0Ea7YFcNOWXvDTKeNQrTHzATdKooSEvRCK5RbeRj2pxpdRYR1fFUE+sVMxCU7wqdHZnLlg=="
       },
       "UnitsNet.nanoFramework.Ratio": {
         "type": "Direct",
-        "requested": "[5.56.0, 5.56.0]",
-        "resolved": "5.56.0",
-        "contentHash": "QUwYJDSpAUsIxGf6r+N9I4k2pLi0TUb8rbXkOryxWqVyvGYhKNCP9iLksP4DhMy8gIF7aiS5Ze+3obRBE3lvUQ=="
+        "requested": "[5.64.0, 5.64.0]",
+        "resolved": "5.64.0",
+        "contentHash": "pbUWFipeWY+ytANgdzsR1XkIeatPIJJiEJufWTwBcZe2HetAg/PNCfL68rPnF8Y6+pT57RHSuXnaxMla4eiizA=="
       }
     }
   }
