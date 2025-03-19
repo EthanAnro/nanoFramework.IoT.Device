@@ -4,57 +4,57 @@
     ".NETnanoFramework,Version=v1.0": {
       "nanoFramework.CoreLibrary": {
         "type": "Direct",
-        "requested": "[1.15.5, 1.15.5]",
-        "resolved": "1.15.5",
-        "contentHash": "u2+GvAp1uxLrGdILACAZy+EVKOs28EQ52j8Lz7599egXZ3GBGejjnR2ofhjMQwzrJLlgtyrsx8nSLngDfJNsAg=="
+        "requested": "[1.17.7, 1.17.7]",
+        "resolved": "1.17.7",
+        "contentHash": "LbP1JJXV5g9cSxb4TgWBIFHXtW6fpKHy/FcylOHAn8WAh/smkyWRrwzEj4784QvScNi/b07zn+A5/JpmDvLc1A=="
       },
       "nanoFramework.Logging": {
         "type": "Direct",
-        "requested": "[1.1.108, 1.1.108]",
-        "resolved": "1.1.108",
-        "contentHash": "N6hXI+rqMJNqFU/s+/XkoqaEkUGWN/m1GiUqsTCSt7/wDgdgtuxpkMcw4J3gKj2ZoMBPrbTz6F+OWaFXqW+BNw=="
+        "requested": "[1.1.151, 1.1.151]",
+        "resolved": "1.1.151",
+        "contentHash": "PusUQflvEEvHP3Q9Rp2CmmEZ8LxOyLt9Az6IwlDImYEj4f/ME4MRQDA7eA0f31QxxxmjvLXKzcXIamgKWrvuOA=="
       },
       "nanoFramework.Runtime.Events": {
         "type": "Direct",
-        "requested": "[1.11.18, 1.11.18]",
-        "resolved": "1.11.18",
-        "contentHash": "t0XpUkdyBBBv/0S4oGx3yUJG1iPYWc38odvZW8mVoioSxZOJrRkRHpNfwYxTxtP4LIEyyesOPEH42d05FHfHzA=="
+        "requested": "[1.11.31, 1.11.31]",
+        "resolved": "1.11.31",
+        "contentHash": "VvrHqbBRh3AF6iNW/ZDyFRGMkpz1P6GLvqpU187t1l0Ejhdsisf5VLL2grwqbd62mBeW3MGJLn5OZKJ55jlnqg=="
       },
       "nanoFramework.Runtime.Native": {
         "type": "Direct",
-        "requested": "[1.6.12, 1.6.12]",
-        "resolved": "1.6.12",
-        "contentHash": "RlJ882CK7D2HkkGHDw1a2xgiEM+1+Nd6iTA+OmzF5QIxbv0SX9qBesueIWsc6RsiQGqBEeBXh4zZ2+TBGL62VQ=="
+        "requested": "[1.7.10, 1.7.10]",
+        "resolved": "1.7.10",
+        "contentHash": "ulqiOuGhly+zsWhpoegkAWGOGDzxK13e/3ML72JoTjznUv+1YvudadUP0YxHKB346lu3JxmCzgKvLigBUb6ALw=="
       },
       "nanoFramework.System.Buffers.Binary.BinaryPrimitives": {
         "type": "Direct",
-        "requested": "[1.2.586, 1.2.586]",
-        "resolved": "1.2.586",
-        "contentHash": "xdT2m6Y+l0/Vw+oOi/H9W9MEgp8iFTo/GipfCenpkl1Owc01RvIvr5FZKADzxSfgr3+RsbqIey5Cu/T2DpLAiw=="
+        "requested": "[1.2.848, 1.2.848]",
+        "resolved": "1.2.848",
+        "contentHash": "L/WVMqToL0iIQbsSNw++bQthEkEW3S/yDrXLDhsG4DVoJss8//8BGFJOdVZqC7hd0cqmw2ZMajuiXNmY+ddDHw=="
       },
       "nanoFramework.System.Device.Gpio": {
         "type": "Direct",
-        "requested": "[1.1.41, 1.1.41]",
-        "resolved": "1.1.41",
-        "contentHash": "5QnpdfvjxOvka2S5IHSdKudWmkH+CDQ3TFFuXOGuNlgZJFsAx0/k5zuwgJYkxIyGbL8kdcjBWLyDNdihjA1pUg=="
+        "requested": "[1.1.56, 1.1.56]",
+        "resolved": "1.1.56",
+        "contentHash": "i5+EadLsqfpwKp2wd7/+Ud4I6I4H34zSW8oTTMqJOzmMniS1Qv2a4wYo1gqhbGAjdYnF1sjJVpyWj/C6ijRnyA=="
       },
       "nanoFramework.System.Device.Spi": {
         "type": "Direct",
-        "requested": "[1.3.52, 1.3.52]",
-        "resolved": "1.3.52",
-        "contentHash": "chtkrJp424LMitA6Fw/QzzhIrYL9PdEaln+A7o5QR99VijDoOILdMvgeeVBnIpkicUH7aY9Vj+3F2TlIGQH/+g=="
+        "requested": "[1.3.79, 1.3.79]",
+        "resolved": "1.3.79",
+        "contentHash": "Lo57Zw0nH6TEb3Gj8JVPIWec4xVIxGDzUVRo9CHyyBXUcw2zUypgONsTk10bwFag98vlip6/00JE2W1bAHqC3A=="
       },
       "nanoFramework.System.Diagnostics.Stopwatch": {
         "type": "Direct",
-        "requested": "[1.2.586, 1.2.586]",
-        "resolved": "1.2.586",
-        "contentHash": "Maan65aZyGWlLkpyR/h8uikFmbM01oitUy2abcj+UmywthkiicPbYQ3rRMYGaKcm0SecbMU1V9SiNhEKxvPbIQ=="
+        "requested": "[1.2.848, 1.2.848]",
+        "resolved": "1.2.848",
+        "contentHash": "fRJ5pr54Ql2MeuNggPZF/7umJC50Tf5R5192lJDLZQec3Y+3vVJ3XMSEat67bbfSzFnIQKU6v0EWW3GY1iUstQ=="
       },
       "nanoFramework.System.Text": {
         "type": "Direct",
-        "requested": "[1.2.54, 1.2.54]",
-        "resolved": "1.2.54",
-        "contentHash": "k3OutSNRMs9di42LQ+5GbpHBY07aMEZWGkaS3Mj3ZU4cWqJc4deFGzRd+LBFQl1mRGdQaM5sl/euTZdcg8R9Zg=="
+        "requested": "[1.3.36, 1.3.36]",
+        "resolved": "1.3.36",
+        "contentHash": "qO0BrmYX4+iV5MSVSIIOSnyPx9Odvgb5Y9hGDWgUCQUGrPG32WPq6YGhTQMK2UIIu3yfB9Nsu2hPhjVSpFYMMA=="
       }
     }
   }
