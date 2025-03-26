@@ -4,33 +4,33 @@
     ".NETnanoFramework,Version=v1.0": {
       "nanoFramework.CoreLibrary": {
         "type": "Direct",
-        "requested": "[1.15.5, 1.15.5]",
-        "resolved": "1.15.5",
-        "contentHash": "u2+GvAp1uxLrGdILACAZy+EVKOs28EQ52j8Lz7599egXZ3GBGejjnR2ofhjMQwzrJLlgtyrsx8nSLngDfJNsAg=="
+        "requested": "[1.17.7, 1.17.7]",
+        "resolved": "1.17.7",
+        "contentHash": "LbP1JJXV5g9cSxb4TgWBIFHXtW6fpKHy/FcylOHAn8WAh/smkyWRrwzEj4784QvScNi/b07zn+A5/JpmDvLc1A=="
       },
       "nanoFramework.Device.OneWire": {
         "type": "Direct",
-        "requested": "[1.4.22, 1.4.22]",
-        "resolved": "1.4.22",
-        "contentHash": "JBRSrWNdRsy3ooaWSbRBYpor2wXQpjIeqKLorNF17H5v6fIgGEPmGegi7rN2YtEy4WtN7sOKuMwRMF7rpnhyzA=="
+        "requested": "[1.4.34, 1.4.34]",
+        "resolved": "1.4.34",
+        "contentHash": "TQmOtDuqlDVw6RWE5hepLE2iq6yhPHtPMkbAGp5Rvu2uROn6NGPoXWuqrKyi20z7qpwSC72tJhW/Q5mEULNTrw=="
       },
       "nanoFramework.Hardware.Esp32": {
         "type": "Direct",
-        "requested": "[1.6.19, 1.6.19]",
-        "resolved": "1.6.19",
-        "contentHash": "dvLEvudRQ/89GtX8i/flOwb81vCMVvI3PpQ+B07b/TUz4tAvpwA7iw6ye5224Z/8j3CQBhefiZtU/jv6K7HRyw=="
+        "requested": "[1.6.33, 1.6.33]",
+        "resolved": "1.6.33",
+        "contentHash": "PEjRm8G4yKJZ8ncgAopEVUFnqq/NmdPmn1l4XkADtPIxLpP20Dj20Vc2d5x/LMKR3MNg2lNWvCoPvkdRqiRLLg=="
       },
       "nanoFramework.Runtime.Events": {
         "type": "Direct",
-        "requested": "[1.11.18, 1.11.18]",
-        "resolved": "1.11.18",
-        "contentHash": "t0XpUkdyBBBv/0S4oGx3yUJG1iPYWc38odvZW8mVoioSxZOJrRkRHpNfwYxTxtP4LIEyyesOPEH42d05FHfHzA=="
+        "requested": "[1.11.31, 1.11.31]",
+        "resolved": "1.11.31",
+        "contentHash": "VvrHqbBRh3AF6iNW/ZDyFRGMkpz1P6GLvqpU187t1l0Ejhdsisf5VLL2grwqbd62mBeW3MGJLn5OZKJ55jlnqg=="
       },
       "UnitsNet.nanoFramework.Temperature": {
         "type": "Direct",
-        "requested": "[5.56.0, 5.56.0]",
-        "resolved": "5.56.0",
-        "contentHash": "fD11Mg9Vbu60tCCkZ7tTSCL1+NkR9LQWXoUKMjRzNPuhG801s/0/7C1GuAKRVIWWlT0OIE1l4PnjxupKdu7H0g=="
+        "requested": "[5.73.0, 5.73.0]",
+        "resolved": "5.73.0",
+        "contentHash": "DtvAr+LAt1nyd4Gb/ltdqWMuVALgyWopQd0raON6MigqaZT+0aWNCd4tzmU9wEprzz1CKuiQBBt5+JKS5R0jBA=="
       }
     }
   }
