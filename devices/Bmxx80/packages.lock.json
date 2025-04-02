@@ -4,45 +4,45 @@
     ".NETnanoFramework,Version=v1.0": {
       "nanoFramework.CoreLibrary": {
         "type": "Direct",
-        "requested": "[1.15.5, 1.15.5]",
-        "resolved": "1.15.5",
-        "contentHash": "u2+GvAp1uxLrGdILACAZy+EVKOs28EQ52j8Lz7599egXZ3GBGejjnR2ofhjMQwzrJLlgtyrsx8nSLngDfJNsAg=="
+        "requested": "[1.17.7, 1.17.7]",
+        "resolved": "1.17.7",
+        "contentHash": "LbP1JJXV5g9cSxb4TgWBIFHXtW6fpKHy/FcylOHAn8WAh/smkyWRrwzEj4784QvScNi/b07zn+A5/JpmDvLc1A=="
       },
       "nanoFramework.Iot.Device.Common.WeatherHelper": {
         "type": "Direct",
-        "requested": "[1.2.612, 1.2.612]",
-        "resolved": "1.2.612",
-        "contentHash": "7r+WnHUH0sjG7wSv/hyo8sJl4ZVbtt52i0lCXznrDdzppt+iwrHj2ug9+6Bevrq60E8o9wOVeyDjxKj60eAZ2Q=="
+        "requested": "[1.2.849, 1.2.849]",
+        "resolved": "1.2.849",
+        "contentHash": "PHLiN4SJ5q5kWUtpRNsnKITGIWSWgteuFaNZIKsVt6OwmeA9GQuVwOzdvVD3ONLMNHlF7xpiJELTQbEx9WNXig=="
       },
       "nanoFramework.System.Buffers.Binary.BinaryPrimitives": {
         "type": "Direct",
-        "requested": "[1.2.586, 1.2.586]",
-        "resolved": "1.2.586",
-        "contentHash": "xdT2m6Y+l0/Vw+oOi/H9W9MEgp8iFTo/GipfCenpkl1Owc01RvIvr5FZKADzxSfgr3+RsbqIey5Cu/T2DpLAiw=="
+        "requested": "[1.2.848, 1.2.848]",
+        "resolved": "1.2.848",
+        "contentHash": "L/WVMqToL0iIQbsSNw++bQthEkEW3S/yDrXLDhsG4DVoJss8//8BGFJOdVZqC7hd0cqmw2ZMajuiXNmY+ddDHw=="
       },
       "nanoFramework.System.Device.I2c": {
         "type": "Direct",
-        "requested": "[1.1.16, 1.1.16]",
-        "resolved": "1.1.16",
-        "contentHash": "33YPnlZVjFwx0mOhdKTOggx+TvbjTD3WZ6rkSB33ytF9fHoqfvS1AYr4+ScUHW4z2yE7vxVWBol5mI7iEg4Aiw=="
+        "requested": "[1.1.28, 1.1.28]",
+        "resolved": "1.1.28",
+        "contentHash": "IQJe57xxBsFpemfwfXGeCCAZnb5AVOM7cBNvCFYY/gE1y0VOgKRmqO9p2RTVVumACMSrTLWdreeJImD6Zfwptg=="
       },
       "nanoFramework.System.Device.Model": {
         "type": "Direct",
-        "requested": "[1.2.586, 1.2.586]",
-        "resolved": "1.2.586",
-        "contentHash": "lj4INIXKDe9UVgiyITVdBlZEiuuIRpKVlTKLQaJVbjWElXW7SiXLfDhRoytaXl5Hs7LoSVjrmhODoTVLbsAemw=="
+        "requested": "[1.2.848, 1.2.848]",
+        "resolved": "1.2.848",
+        "contentHash": "olv8/5499kCbZt4LpwOBX8eKnLcND0V6klguxN7K7RPrrqR/n0ezNmbAqIwJR816rPTZrpKO2guThHjdE4tINQ=="
       },
       "nanoFramework.System.Math": {
         "type": "Direct",
-        "requested": "[1.5.43, 1.5.43]",
-        "resolved": "1.5.43",
-        "contentHash": "JEOEGHoIpknJFwPjjz77sT5mej2PiT7JTv59jabzFf+d8XYy8Z4SH+NdX00Xc/yDS8LIPuWb7+C245XGUUx99A=="
+        "requested": "[1.5.112, 1.5.112]",
+        "resolved": "1.5.112",
+        "contentHash": "lmPfx89+DEO2KQh7v/PeEl5FkXc3DRwpEnngLBz6cG/3W9X7NyypqY1qDNDPHxz7qybM5oj+wieR7qYYInjBzQ=="
       },
       "Nerdbank.GitVersioning": {
         "type": "Direct",
-        "requested": "[3.6.141, 3.6.141]",
-        "resolved": "3.6.141",
-        "contentHash": "A2+obbz6Xl6nHdDDMiqHCrn6Lktrs/pLq4BIQXDUD2O2gd5fz2WobQyX30Kp0mPPXjEOgBA1r5s6iYVurTkUig=="
+        "requested": "[3.7.115, 3.7.115]",
+        "resolved": "3.7.115",
+        "contentHash": "EpXamaAdRfG/BMxGgvZlTM0npRnkmXUjAj8OdNKd17t4oN+2nvjdv/KnFmzOOMDqvlwB49UCwtOHJrAQTfUBtQ=="
       },
       "StyleCop.MSBuild": {
         "type": "Direct",
@@ -52,39 +52,39 @@
       },
       "UnitsNet.nanoFramework.Duration": {
         "type": "Direct",
-        "requested": "[5.56.0, 5.56.0]",
-        "resolved": "5.56.0",
-        "contentHash": "iPpvamchbTL7JJTfA4lrvL5yd0Hx2XfDdcJARpOb5VEDKsfYOmTD8nEqcVlS5csG965CTTrtboR2EU4bAKXQuQ=="
+        "requested": "[5.73.0, 5.73.0]",
+        "resolved": "5.73.0",
+        "contentHash": "DDmfXtF1kkFdSnli/qYl4FaGrKhq00Kl6JG72ki2L97XSNxUdj4tI9e/jrZCwMekJ8MvJxYWtGwiejEF80XyOA=="
       },
       "UnitsNet.nanoFramework.ElectricResistance": {
         "type": "Direct",
-        "requested": "[5.56.0, 5.56.0]",
-        "resolved": "5.56.0",
-        "contentHash": "h5IZRjHv38qThxq6EBsfqIpqno4K5Rc+rewc2EBW5jAd5SQcyEhAovXUEVcLjQdemegkJW5zzrNivwx1Ym1OXw=="
+        "requested": "[5.73.0, 5.73.0]",
+        "resolved": "5.73.0",
+        "contentHash": "ghhBe6QtLJ1lbzin0VOE6CLzS4VbELC9uOECTnPg0OKyb1lY5aJ4hA2wOqafp3m1iXr89N4qhj5sBHCv7LF8Dw=="
       },
       "UnitsNet.nanoFramework.Length": {
         "type": "Direct",
-        "requested": "[5.56.0, 5.56.0]",
-        "resolved": "5.56.0",
-        "contentHash": "qj0awJqLN60bZv6UFGYv+N6HzewgMxl+WtX/Uf+L85mC/lSkezcFVv9uoLaKIZ8SRBAW3zL9cB5eJ53kdUw/dg=="
+        "requested": "[5.73.0, 5.73.0]",
+        "resolved": "5.73.0",
+        "contentHash": "QqjXZXQwl6AwAkGh816aBJTyklyHX8hk43UvqmGhj+nPAX/zDdI/Ni9RI0b0JYE3YSP3r9GFgKqQ1vMQ02r0IQ=="
       },
       "UnitsNet.nanoFramework.Pressure": {
         "type": "Direct",
-        "requested": "[5.56.0, 5.56.0]",
-        "resolved": "5.56.0",
-        "contentHash": "Ub0TyqT32Zs1TodMTt1pmXWy1cbkQdeWVHX5t8PcA7tdQZ5fyWKzmS4yFqdTSMXy8G+kL063bxGWCM7zRKMTgQ=="
+        "requested": "[5.73.0, 5.73.0]",
+        "resolved": "5.73.0",
+        "contentHash": "luFgp/SHszvZaHaBFCrDbSWhju0zjBZCFwKsMzHyHp7puiIoeR4I4/ESTXsYK94g4NXpZ7kougOw4PIgV1x31Q=="
       },
       "UnitsNet.nanoFramework.RelativeHumidity": {
         "type": "Direct",
-        "requested": "[5.56.0, 5.56.0]",
-        "resolved": "5.56.0",
-        "contentHash": "jccgL5Nr9t9ljRif127jrzkRPVTttSye/liyPZ+P07du8HbVxza72+uJPTH1ityVrU/8JMPkcWgvk7gW3f8WVg=="
+        "requested": "[5.73.0, 5.73.0]",
+        "resolved": "5.73.0",
+        "contentHash": "4D/DmrUBKcYxlJ+zKD9ad+C9SAG7YXhEgs4VkXSmQ+dNXKCD6w5VPdtlUFu79mvJ3ddY4ANPs2U1589hu0MC0g=="
       },
       "UnitsNet.nanoFramework.Temperature": {
         "type": "Direct",
-        "requested": "[5.56.0, 5.56.0]",
-        "resolved": "5.56.0",
-        "contentHash": "fD11Mg9Vbu60tCCkZ7tTSCL1+NkR9LQWXoUKMjRzNPuhG801s/0/7C1GuAKRVIWWlT0OIE1l4PnjxupKdu7H0g=="
+        "requested": "[5.73.0, 5.73.0]",
+        "resolved": "5.73.0",
+        "contentHash": "DtvAr+LAt1nyd4Gb/ltdqWMuVALgyWopQd0raON6MigqaZT+0aWNCd4tzmU9wEprzz1CKuiQBBt5+JKS5R0jBA=="
       }
     }
   }
