@@ -4,21 +4,21 @@
     ".NETnanoFramework,Version=v1.0": {
       "nanoFramework.CoreLibrary": {
         "type": "Direct",
-        "requested": "[1.15.5, 1.15.5]",
-        "resolved": "1.15.5",
-        "contentHash": "u2+GvAp1uxLrGdILACAZy+EVKOs28EQ52j8Lz7599egXZ3GBGejjnR2ofhjMQwzrJLlgtyrsx8nSLngDfJNsAg=="
+        "requested": "[1.17.11, 1.17.11]",
+        "resolved": "1.17.11",
+        "contentHash": "HezzAc0o2XrSGf85xSeD/6xsO6ohF9hX6/iMQ1IZS6Zw6umr4WfAN2Jv0BrPxkaYwzEegJxxZujkHoUIAqtOMw=="
       },
       "nanoFramework.Runtime.Native": {
         "type": "Direct",
-        "requested": "[1.6.12, 1.6.12]",
-        "resolved": "1.6.12",
-        "contentHash": "RlJ882CK7D2HkkGHDw1a2xgiEM+1+Nd6iTA+OmzF5QIxbv0SX9qBesueIWsc6RsiQGqBEeBXh4zZ2+TBGL62VQ=="
+        "requested": "[1.7.11, 1.7.11]",
+        "resolved": "1.7.11",
+        "contentHash": "XPSTltZ9KeBruogVmjQpCphi1nLoJH49mpyp2eGBs8BTjKuL5TkMO20MoI8r73F/PW5AppTq49HvIZZavU5nPQ=="
       },
       "Nerdbank.GitVersioning": {
         "type": "Direct",
-        "requested": "[3.6.141, 3.6.141]",
-        "resolved": "3.6.141",
-        "contentHash": "A2+obbz6Xl6nHdDDMiqHCrn6Lktrs/pLq4BIQXDUD2O2gd5fz2WobQyX30Kp0mPPXjEOgBA1r5s6iYVurTkUig=="
+        "requested": "[3.7.115, 3.7.115]",
+        "resolved": "3.7.115",
+        "contentHash": "EpXamaAdRfG/BMxGgvZlTM0npRnkmXUjAj8OdNKd17t4oN+2nvjdv/KnFmzOOMDqvlwB49UCwtOHJrAQTfUBtQ=="
       },
       "StyleCop.MSBuild": {
         "type": "Direct",
