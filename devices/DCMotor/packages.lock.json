@@ -4,33 +4,33 @@
     ".NETnanoFramework,Version=v1.0": {
       "nanoFramework.CoreLibrary": {
         "type": "Direct",
-        "requested": "[1.15.5, 1.15.5]",
-        "resolved": "1.15.5",
-        "contentHash": "u2+GvAp1uxLrGdILACAZy+EVKOs28EQ52j8Lz7599egXZ3GBGejjnR2ofhjMQwzrJLlgtyrsx8nSLngDfJNsAg=="
+        "requested": "[1.17.11, 1.17.11]",
+        "resolved": "1.17.11",
+        "contentHash": "HezzAc0o2XrSGf85xSeD/6xsO6ohF9hX6/iMQ1IZS6Zw6umr4WfAN2Jv0BrPxkaYwzEegJxxZujkHoUIAqtOMw=="
       },
       "nanoFramework.Runtime.Events": {
         "type": "Direct",
-        "requested": "[1.11.18, 1.11.18]",
-        "resolved": "1.11.18",
-        "contentHash": "t0XpUkdyBBBv/0S4oGx3yUJG1iPYWc38odvZW8mVoioSxZOJrRkRHpNfwYxTxtP4LIEyyesOPEH42d05FHfHzA=="
+        "requested": "[1.11.32, 1.11.32]",
+        "resolved": "1.11.32",
+        "contentHash": "NyLUIwJDlpl5VKSd+ljmdDtO2WHHBvPvruo1ccaL+hd79z+6XMYze1AccOVXKGiZenLBCwDmFHwpgIQyHkM7GA=="
       },
       "nanoFramework.System.Device.Gpio": {
         "type": "Direct",
-        "requested": "[1.1.41, 1.1.41]",
-        "resolved": "1.1.41",
-        "contentHash": "5QnpdfvjxOvka2S5IHSdKudWmkH+CDQ3TFFuXOGuNlgZJFsAx0/k5zuwgJYkxIyGbL8kdcjBWLyDNdihjA1pUg=="
+        "requested": "[1.1.57, 1.1.57]",
+        "resolved": "1.1.57",
+        "contentHash": "Es7jHRrT/+0Ty9uJNzJUcTn+aCpjkxXnmsaM+g9HXvLZ8k4SDCCqmO9pT317nX+9ehmgGo2JKrtmkekgbOp+Pw=="
       },
       "nanoFramework.System.Device.Pwm": {
         "type": "Direct",
-        "requested": "[1.1.10, 1.1.10]",
-        "resolved": "1.1.10",
-        "contentHash": "vk/Dr8No2ec+eBwwufxDK0Rm6BRnOoevjaqEXbvpFz2BK3UPiC4OhUWH3Rwel34rywg1mXozAAY9ZwvN2gnxlA=="
+        "requested": "[1.1.23, 1.1.23]",
+        "resolved": "1.1.23",
+        "contentHash": "Z0jRgHqnEKI8k7jGFiYCsMcXv2r0vHV0MY0tqTAUIxIEwQ5BbnUf0Gyr481Wh25bAkwJ9p/PwfhPJbjPAY65Bw=="
       },
       "Nerdbank.GitVersioning": {
         "type": "Direct",
-        "requested": "[3.6.141, 3.6.141]",
-        "resolved": "3.6.141",
-        "contentHash": "A2+obbz6Xl6nHdDDMiqHCrn6Lktrs/pLq4BIQXDUD2O2gd5fz2WobQyX30Kp0mPPXjEOgBA1r5s6iYVurTkUig=="
+        "requested": "[3.8.118, 3.8.118]",
+        "resolved": "3.8.118",
+        "contentHash": "cRaG+ICcECG+CzbtQyUV2WftH7yl2B02AjYGGNScXx8TwYavZYwhCewBTiC0qTcsac7m6AzBUYna5xzBWmTGYw=="
       }
     }
   }
